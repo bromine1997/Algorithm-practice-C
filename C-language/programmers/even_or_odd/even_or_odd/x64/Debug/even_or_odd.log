@@ -1,0 +1,3 @@
+﻿  even_or_odd.cpp
+C:\Users\bromine\Desktop\Git Projects\Algorithm-practice-C\C-language\programmers\even_or_odd\even_or_odd\even_or_odd.cpp(23,23): error C3861: 'strcpy': 식별자를 찾을 수 없습니다.
+C:\Users\bromine\Desktop\Git Projects\Algorithm-practice-C\C-language\programmers\even_or_odd\even_or_odd\even_or_odd.cpp(24,10): error C3861: 'strcpy': 식별자를 찾을 수 없습니다.
